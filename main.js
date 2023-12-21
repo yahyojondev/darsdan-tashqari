@@ -119,14 +119,14 @@
 
 // console.log(raqamlar.length);
 
-// let ism = prompt("ismingizni kiriting");
-// let hozirgiyil = prompt('hozirgi yilni kiriting')
+let ism = prompt("ismingizni kiriting");
+let hozirgiyil = prompt('hozirgi yilni kiriting')
 
-// let yosh = prompt('yoshni kiriting');
+let yosh = prompt('yoshni kiriting');
 
-// let result = `hurmatli ${ism} siz ${hozirgiyil - yosh} da tugillgansz.va siz ${yosh * 12} oy, ${(yosh * 365)/7} hafta, ${yosh * 365} kun,${(yosh*365)*24} soat,${(yosh*365)*24*60} daqiqa,${(yosh*365)*24*3600} soniya yashagansz.🤦‍♂️ `;
+let result = `hurmatli ${ism} siz ${hozirgiyil - yosh} da tugillgansz.va siz ${yosh * 12} oy, ${(yosh * 365)/7} hafta, ${yosh * 365} kun,${(yosh*365)*24} soat,${(yosh*365)*24*60} daqiqa,${(yosh*365)*24*3600} soniya yashagansz.🤦‍♂️ `;
 
-// alert(result)
+alert(result)
 
 
 
